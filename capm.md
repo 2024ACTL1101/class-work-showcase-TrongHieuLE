@@ -1,7 +1,6 @@
 ---
 Title: "ACTL1101 Assignment Part B"
 Author: "Trong Hieu LE"
-Date: "2024 T2"
 ---
 
 ```{r setup, include=FALSE}
