@@ -1,7 +1,6 @@
 ---
 title: "ACTL1101 Assignment Part A"
 author: "Trong Hieu Le"
-date: "2024 T2"
 ---
 
 
