@@ -2,11 +2,6 @@
 title: "ACTL1101 Assignment Part A"
 author: "Trong Hieu Le"
 date: "2024 T2"
-output:
-  word_document: default
-  html_document:
-    df_print: paged
-  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
