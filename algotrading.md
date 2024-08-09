@@ -4,9 +4,6 @@ author: "Trong Hieu Le"
 date: "2024 T2"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Algorithmic Trading Strategy
 
